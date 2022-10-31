@@ -1,2 +1,2 @@
 # Template-three-Elzero
-From Elzero Web School: htts://www.elzero.org
+From Elzero Web School: https://www.elzero.org
